@@ -1,0 +1,25 @@
+#board {
+  text-align: center;
+  margin: auto;
+  height: 100%;
+  width: 60%;
+}
+
+#table{
+
+  font-size: 60px;
+  margin: auto;
+}
+
+#reset {
+  margin: auto;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+
+#resetGame{
+  background-color: red;
+  color: white;
+}
